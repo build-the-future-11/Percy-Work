@@ -8,7 +8,7 @@
 - State: IN_PROGRESS.
 - Budget: included allowances only; no purchases, paid infrastructure, billing expansion, paid advertising, or automatic-reload changes.
 - Available runtime: cloud Linux, 9 logical CPUs, 9.7 GiB RAM (8.7 GiB available at initial check), approximately 30 GiB free storage, no GPU command detected. No connected desktop or saved coding environment was listed.
-- Work-in-progress limit: three substantial lanes: Krylov/CJSJ, product/funnel repair, operations/outreach. Inventory is incremental lightweight coordination.
+- Work-in-progress limit: three substantial tasks at a time. Current assignments are in MASTER_QUEUE.jsonl; completed and approval-blocked work is recorded separately.
 - Central work base: 68dd9be6081a1e67256cce90bf46cdf6b4e43f23.
 - Central project base: c6945e8028b6d99886bb4748763d2670b39365d3.
 - Both central repositories are public. Only sanitized operational summaries and public evidence references belong here. Personal contacts, email exports, private sources and full conversation prompts remain outside public repositories.
