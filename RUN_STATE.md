@@ -25,3 +25,11 @@
 ## Counts and truthfulness
 
 The requested 25,000+ ideas, 2,024 paper packages, 2,500+ substantive project folders, 500 activated school chapters and 1,000 articles are targets, not verified accomplishments. Inventory coverage and evidence maturity will be computed from recovered records. Unknown quantities remain unknown.
+
+## Public evidence reconciliation — 2026-09-30 22:06 UTC
+
+The public queue now records exact draft PR heads and separates local verification, hosted head checks, synthetic-merge CI and intentional CI skips. It does not mark research submissions, releases or the portfolio complete. The initial runtime description above is historical; execution storage was replaced at 21:09 UTC, so earlier local-only files must not be assumed available.
+
+Catalogue and ledger quantities are source-record counts. A 25,000-record catalogue is not 25,000 studies, experiments or completed papers. Draft articles remain unpublished. Historical NeuroCAD PR 74 merged before the 16:33:06 UTC start and contributes no new merge to this run.
+
+The 01:00 UTC progress checkpoint, 04:20 UTC new-launch cutoff and 04:30 UTC final deadline remain unchanged.

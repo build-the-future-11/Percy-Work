@@ -17,3 +17,15 @@ Completed bounded APEN report-analysis and private ledger refresh. FIM repaired 
 ## 19:03 UTC checkpoint
 
 Completed exact ATG constructed-library replay and scoped author-review package, six additional source-led editorial drafts with passing exact-head CI, focused World-Series verification/validator repairs, and NeuroCAD geometry verification with a local handoff-status correction. Author-review artifacts delivered privately. Finance event-registration race fix is in a draft PR; hosted checks include external image-pull failure and two unchanged test timeouts, so overall CI is not green. Source catalogue batch and contributor decisions continue. No production deployment or research submission.
+
+## 2026-09-30T22:06:00Z — Public receipt reconciliation
+
+OBJECTIVE: Reconcile only the supplied public-repository receipts in the existing execution registry. Governing README, actual draft PR 1 head, run state and both queue representations were inspected first.
+
+COMPLETED: Finance draft PR 138's exact-source CI success supersedes the earlier open verification task at its bounded engineering scope; PR 137's failed run is preserved separately. Obscured PRs 17-19 hold nine distinct unpublished drafts / 6,683 substantive words; the final stack's CI logs confirm 191 regression tests. IRIS source maintenance is recorded with local checks and BLOCKED readiness. FIM historical-evidence qualification and LAM/Krylov scoped public receipts retain all scientific limitations. Eigen-JEPA PR 29 is a README-only clarification of an already-closed mixed/negative result.
+
+VERIFICATION: Public PR metadata and exact SHAs checked; finance runs 36758845112 (failed parent) and 36764143336 (successful child), Obscured run 36756935216 and FIM run 36756062274 inspected. Finance/Obscured source-binding and test totals inspected in hosted logs. FIM CI is associated with its head but checked out a synthetic merge. Intentionally skipped IRIS/LAM/Krylov/Eigen CI is not reported as a pass. New local experiments, application tests and protected evaluations were not run by this reconciliation. Exact public PR/commit/CI links are in MASTER_QUEUE.jsonl.
+
+INTEGRITY: NeuroCAD PR 74 merged on September 28, before this execution window; it is not a new overnight merge. Existing private-repository items remain at their prior sanitized scope. No private identifiers, correspondence, source locations or raw data were added. Catalogue totals remain source-record counts, not studies or papers. No merge, release, production deployment or research submission was performed.
+
+NEXT: Continue only already-authorized bounded work; retain separate publication, submission and live-production gates. The run deadline is unchanged.

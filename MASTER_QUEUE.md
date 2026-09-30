@@ -1,6 +1,6 @@
 # Current bounded execution queue
 
-Updated 2026-09-30 19:03 UTC. Active work covers three bounded tasks; approvals remain separate.
+Updated 2026-09-30 22:06 UTC. Public-repository receipts reconciled; private work retains its previously recorded scope. DONE refers only to each bounded acceptance criterion, never automatic publication, release or portfolio completion. Exact evidence and public verification limits are retained in MASTER_QUEUE.jsonl.
 
 ## KRYLOV-CJSJ-20260930
 
@@ -10,6 +10,8 @@ Objective: Verify recovered Krylov evidence and finish current CJSJ package
 
 Next: Human author review, required signatures and venue disclosure-route resolution; no submission authorized
 
+Public receipt: Draft PR 12 exact head verified. Public tooling and sanitized reproduction receipt retain negative/inconclusive conclusions. Reported local checks: 45 scoped and 54 upstream tests; CI intentionally skipped. Human author review, signatures and disclosure-route resolution still required; no submission.
+
 ## PRODUCT-FUNNEL-20260930
 
 State: NEEDS_APPROVAL
@@ -17,6 +19,8 @@ State: NEEDS_APPROVAL
 Objective: Repair verified product and funnel blockers, beginning with store audit
 
 Next: Await store release approval and provider-domain evidence; keep tested content drafts unmerged
+
+Public receipt: Obscured-Records PRs 17-19 form one draft stack: 1 + 2 + 6 distinct new unpublished drafts, 6683 substantive words total. Do not sum cumulative inventories or count these as publications. Store and provider gates remain unchanged.
 
 ## OPS-CLOSEOUT-20260930
 
@@ -33,6 +37,8 @@ State: DONE
 Objective: Recover retained evidence and repair verification
 
 Next: Author review and separate release gates
+
+Public receipt: Draft verifier/reproduction code at the exact head. Public receipt reports 16 local regression tests and a separately retained unchanged five-seed train/validation reproduction. CI intentionally skipped; no full hosted-CI pass. Missing original archive identities remain missing; no protected-test run, merge or release.
 
 ## APEN-REPORT-20260930
 
@@ -58,6 +64,8 @@ Objective: Finish six additional distinct source-led editorial drafts
 
 Next: Human editorial review before release
 
+Public receipt: Six added drafts / 4499 substantive words in PR 19. Combined with PRs 17-18: nine distinct drafts / 6683 words. All three PRs remain open drafts, unmerged and unpublished; human editorial approval still required.
+
 ## FIM-CLOSEOUT-20260930
 
 State: DONE
@@ -65,6 +73,8 @@ State: DONE
 Objective: Verify retained FIM studies without conflating implementations
 
 Next: Recover missing historical identities before empirical replay
+
+Public receipt: Draft documentation-only PR qualifies the retained 24-cell shared-minibatch study; it is not trajectory-isolated evidence or a matched replay closure. CI run 36756062274 succeeded for the PR head; the workflow checked out synthetic merge 702cb0ddfbd6f80fe5a2c511b35db48b8d09d7cf, not a head-only checkout. Historical identities and neural replay remain unresolved.
 
 ## ATG-REPLAY-20260930
 
@@ -90,13 +100,17 @@ Objective: Verify frozen geometry requirements and handoff evidence
 
 Next: Review local documentation patch; no new geometry defect found
 
+Public receipt: PR 74 merged at 2026-09-28T16:02:35Z as 72da49cbf29460159d148914aa3de9051c66fe54, before this run began. It is historical evidence, not a new overnight merge or implementation. The previously recorded overnight change was local handoff documentation only.
+
 ## FINANCE-EVENT-FIX-20260930
 
-State: VERIFYING
+State: DONE
 
 Objective: Repair event registration state race and verify release checks
 
-Next: Investigate two hosted unchanged-test timeouts; preserve external image-pull rate-limit and local browser blocks
+Next: Review stacked draft PRs 137 and 138; obtain separate release authority and live-production evidence before any merge, deployment or production migration.
+
+Public receipt: Parent run 36758845112 remains failed: two unchanged-test timeouts and pre-checkout database image-pull failure. Child success does not rewrite that history. The hosted release-revision metadata used synthetic merge e5e4eed01b73bddba9e4adf1556a28e48dfa3f1b; the source-binding step checked the child head. Disposable CI checks do not certify the live production database.
 
 ## CATALOGUE-BATCH01-20260930
 
@@ -114,3 +128,22 @@ Objective: Review new contributor acceptance and publication request
 
 Next: Prepare publication decision for owner; verify accepted protocol checkpoint
 
+## IRIS-READINESS-20260930
+
+State: DONE
+
+Objective: Repair bounded retained-evidence readers and readiness documentation
+
+Next: Keep protected runs and submission blocked until existing evidence and approval gates are resolved.
+
+Completed scope: Draft PR 32 rejects numeric overflow and preserves false authorization flags. Public local verification receipt reports 67 tests plus 26 subtests, six files/16 claim rows, and 15 historical reconciliation fields. Both require-ready commands still exit 2 (BLOCKED).
+
+## EIGEN-STATUS-20260930
+
+State: DONE
+
+Objective: Expose existing closed mixed/negative research boundary in the README
+
+Next: Review the draft status clarification; keep the optional classical-baseline successor pre-outcome and unauthorized.
+
+Completed scope: Draft PR 29 changes README only (14 additions, 2 deletions), surfacing the existing mixed/negative closure at base cf3a1bd29c91c637c63dacf6813f801d8f76c337. This records documentation progress, not a newly completed study or new scientific run.

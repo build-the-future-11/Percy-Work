@@ -11,3 +11,12 @@ Updated 2026-09-30 17:48 UTC. Exact private approvals and contact records stay i
 
 - FIM: seven missing historical files and two hash mismatches, plus original prediction/checkpoint/diagnostic evidence, prevent historical neural replay; current report verification does not resolve that gate.
 - ATG: successful later constructed-library replay cannot recover missing original historical ODE/WDBC evidence.
+
+## Public verification and release gates — 2026-09-30 22:06 UTC
+
+- Finance: stacked PR 138 passed controlled hosted checks; parent PR 137's earlier failures remain historical evidence. Both are draft/unmerged. Disposable CI database checks do not establish live-production state; merge, deployment and production migration remain separate release gates.
+- Obscured-Records: nine new drafts across PRs 17-19 remain unpublished and lack human editorial approval. Passing tests do not remove the release hold.
+- IRIS: readiness remains BLOCKED despite source-maintenance tests. No protected run or submission is authorized by the repair.
+- LAM and Krylov: intentional CI skips are not passing hosted CI. Historical-source limitations and human review/signature/submission gates remain.
+- FIM: the retained 24-cell shared-minibatch study is not trajectory-isolated mechanism evidence or a completed matched replay. Passing CI does not resolve that scientific boundary.
+- Eigen-JEPA: the current study is already closed at its retained mixed/negative boundary. Its optional classical-baseline successor is pre-outcome and unauthorized; the README clarification does not reopen or execute it.
