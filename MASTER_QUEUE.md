@@ -1,6 +1,6 @@
 # Current bounded execution queue
 
-Updated 2026-09-30 17:47 UTC. Exactly three substantial tasks are active; blocked approvals are not counted as executed work. Private evidence remains in owner-held artifacts.
+Updated 2026-09-30 18:11 UTC. Three substantial tasks are active; approval-blocked work is not counted as execution.
 
 ## KRYLOV-CJSJ-20260930
 
@@ -36,19 +36,19 @@ Next: Author review and separate release gates
 
 ## APEN-REPORT-20260930
 
-State: IN_PROGRESS
+State: DONE
 
 Objective: Close reproducibility gaps in existing APEN report analysis
 
-Next: Finish isolated report-analysis changes and verified private deliverables
+Next: Recover exact historical spatial training source before neural replay
 
 ## PRIVATE-LEDGER-20260930
 
-State: IN_PROGRESS
+State: DONE
 
 Objective: Refresh the existing private operating workbook
 
-Next: Validate changed workbook and replace same private artifact
+Next: Incremental updates only when new verified evidence arrives
 
 ## EDITORIAL-BATCH-20260930-02
 
@@ -56,5 +56,29 @@ State: IN_PROGRESS
 
 Objective: Finish six additional distinct source-led editorial drafts
 
-Next: Qualify unserved topics against current roster and finish one at a time
+Next: Parent content review passed for six drafts; verify isolated draft PR exact-head CI
+
+## FIM-CLOSEOUT-20260930
+
+State: DONE
+
+Objective: Verify retained FIM studies without conflating implementations
+
+Next: Recover missing historical identities before empirical replay
+
+## ATG-REPLAY-20260930
+
+State: IN_PROGRESS
+
+Objective: Reproduce retained finite-library study and preserve unresolved older claims
+
+Next: Finish manuscript and full-record author-review package
+
+## WORLD-SERIES-VERIFY-20260930
+
+State: IN_PROGRESS
+
+Objective: Verify existing bounded World-Series closeout
+
+Next: Inspect scoped protocols and assess faithful bounded reproduction
 

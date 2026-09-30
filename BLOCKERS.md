@@ -8,3 +8,6 @@ Updated 2026-09-30 17:48 UTC. Exact private approvals and contact records stay i
 - APEN spatial report: exact historical training implementation/checkpoints are not recovered; report-analysis repairs cannot substitute for them.
 - Public coordination repositories cannot contain private operational or collaborator source data. Private source release is a separate permission boundary.
 - Source recovery is not scientific execution. Portfolio-wide ready-paper counts remain unverified; no generated folder or test count substitutes for a completed study.
+
+- FIM: seven missing historical files and two hash mismatches, plus original prediction/checkpoint/diagnostic evidence, prevent historical neural replay; current report verification does not resolve that gate.
+- ATG: successful later constructed-library replay cannot recover missing original historical ODE/WDBC evidence.
