@@ -1,6 +1,8 @@
 # Current bounded execution queue
 
-Updated 2026-10-01 00:04 UTC. Bounded public receipts and sanitized source-review delivery counts reconciled; unrelated work retains its previously recorded scope. DONE refers only to each bounded acceptance criterion, never automatic publication, release or portfolio completion. Exact evidence and public verification limits are retained in MASTER_QUEUE.jsonl.
+Updated 2026-10-01 02:37 UTC. Public evidence references and receipt metadata rechecked; store theme-switch approval is received, with execution blocked at sign-in. Unrelated work retains its previously recorded scope. DONE refers only to each bounded acceptance criterion, never automatic publication, release or portfolio completion. Exact evidence and public verification limits remain in MASTER_QUEUE.jsonl.
+
+EVIDENCE_INDEX.csv is a derived lookup of this execution queue, not a scientific registry. It has one row per permitted public evidence reference, or a no-public-artifact marker when none is indexed. Metadata checks do not rerun tests or establish scientific completion; a missing public artifact does not imply that no private evidence exists. Queue states and scope remain authoritative in MASTER_QUEUE.jsonl.
 
 ## KRYLOV-CJSJ-20260930
 
@@ -14,13 +16,13 @@ Public receipt: Draft PR 12 exact head verified. Public tooling and sanitized re
 
 ## PRODUCT-FUNNEL-20260930
 
-State: NEEDS_APPROVAL
+State: BLOCKED
 
 Objective: Repair verified product and funnel blockers, beginning with store audit
 
-Next: Await store release approval and provider-domain evidence; keep tested content drafts unmerged
+Next: Restore authenticated store access for the approved candidate theme switch; obtain provider-domain evidence; keep tested content drafts unmerged.
 
-Public receipt: Obscured-Records PRs 17-19 form one draft stack: 1 + 2 + 6 distinct new unpublished drafts, 6683 substantive words total. Do not sum cumulative inventories or count these as publications. Store and provider gates remain unchanged.
+Public receipt: Obscured-Records PRs 17-19 form one draft stack: 1 + 2 + 6 distinct new unpublished drafts, 6683 substantive words total. Do not sum cumulative inventories or count these as publications. Store theme-switch approval received; execution is blocked by sign-in. Provider-domain evidence and human editorial publication approval remain outstanding. No theme switch or sale is confirmed.
 
 ## OPS-CLOSEOUT-20260930
 

@@ -39,3 +39,15 @@ SOURCE REVIEW: Closed the scoped delivery queue at 75 manual source-level record
 PARTIAL PUBLIC VERIFICATION: World-Series v0.1.0-oss release metadata confirms an existing review archive, manifest and receipt. The previous unconditional asset-recovery next step is corrected. Archive bytes were not downloaded in this reconciliation; the prior report-only public scope is retained. New local test counts and scientific findings are not promoted into public evidence without a source-bound public receipt. No new training or full public closure is claimed.
 
 VERIFICATION AND BOUNDS: Existing branch head and source files checked before editing; JSON/Markdown status parity, unchanged unrelated records, deadline preservation, privacy scan and diff checks required before publication. All public references are recorded in the existing queue. No scientific protocol, private source record, merge, deployment, release or submission changed.
+
+## 2026-10-01T02:37:27Z — Public evidence lookup and blocker reconciliation
+
+OBJECTIVE: Add the requested minimal evidence lookup to the existing execution queue without creating a competing scientific registry.
+
+COMPLETED: EVIDENCE_INDEX.csv derives permitted public references from MASTER_QUEUE.jsonl and explicitly marks queue items with no public artifact indexed. Public repository visibility, referenced PR heads/states, commit identities, recorded workflow outcomes and release metadata were checked. All referenced public PR heads and previously recorded workflow outcomes remain unchanged. The store theme-switch approval is now recorded as received; execution remains blocked at sign-in. The product-funnel item is BLOCKED rather than awaiting that approval.
+
+SCOPE: Metadata checks only. Existing local-test, hosted-head, synthetic-merge and intentional-CI-skip distinctions remain in the queue receipts. NeuroCAD's merge predates this run. Release metadata is not archive-byte verification. Missing public index entries do not mean private evidence is absent. No new scientific result, source-review count, model run or research-completion claim is introduced.
+
+VERIFICATION: JSON parsing, CSV readback, queue/Markdown/index parity, unchanged unrelated queue records, privacy diff and git diff --check. Governing README and RUN_STATE.md remain unchanged, including the 04:20 UTC new-launch cutoff and 04:30 UTC final deadline. No private artifact links, account details, contact records or unpublished evidence were added. No merge, deployment, release, submission or paid action was performed.
+
+NEXT: Continue only already-authorized bounded work; restore the required authenticated store access before attempting the approved switch. Other publication, submission and live-production gates retain their recorded scope.
