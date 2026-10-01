@@ -51,3 +51,15 @@ SCOPE: Metadata checks only. Existing local-test, hosted-head, synthetic-merge a
 VERIFICATION: JSON parsing, CSV readback, queue/Markdown/index parity, unchanged unrelated queue records, privacy diff and git diff --check. Governing README and RUN_STATE.md remain unchanged, including the 04:20 UTC new-launch cutoff and 04:30 UTC final deadline. No private artifact links, account details, contact records or unpublished evidence were added. No merge, deployment, release, submission or paid action was performed.
 
 NEXT: Continue only already-authorized bounded work; restore the required authenticated store access before attempting the approved switch. Other publication, submission and live-production gates retain their recorded scope.
+
+## 2026-10-01 06:08 UTC — Baseline evidence repair verified
+
+COMPLETED: VERTEX-BASELINE-REVIEW-20261001. Reproduced stale self-check retention after answer edits, repaired the transition and added nine focused regressions plus a saved-session browser regression. Minimal brace-expansion and DOMPurify pin updates cleared the original dependency-gate failure without weakening checks.
+
+VERIFICATION: Local canonical gate passed with 1,197 application and 25 evaluation tests. Exact head f2e57eea6d26126e915dcbadadfb469b654b0326 passed hosted CI run36821669924, including 19 authenticated-browser tests, local accessibility and isolated database contracts. Seven changed remote blobs matched local contents. Downloaded browser artifact digest matched and 1440/1024/390 screenshots were inspected.
+
+FAILURES PRESERVED: Local browser download was truncated and system Chromium failed before assertions with an OS socket permission error. Hosted verification then completed through standard free public runners. Existing narrow-screen floating-widget overlap remains a separate observation.
+
+RELEASE STATE: https://github.com/vertex-studyAI/vertexED.ai/pull/1103 is draft, open and unmerged. Existing research/** deployment-disabled policy prevents preview publication. Production CI jobs correctly skipped. No production change, paid provider benchmark or merge occurred.
+
+NEXT: Review the tested draft and obtain release authority separately. Preserve independent research and organization evidence in their appropriate canonical/private locations.

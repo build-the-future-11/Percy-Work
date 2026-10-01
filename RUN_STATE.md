@@ -33,3 +33,7 @@ The public queue now records exact draft PR heads and separates local verificati
 Catalogue and ledger quantities are source-record counts. A 25,000-record catalogue is not 25,000 studies, experiments or completed papers. Draft articles remain unpublished. Historical NeuroCAD PR 74 merged before the 16:33:06 UTC start and contributes no new merge to this run.
 
 The 01:00 UTC progress checkpoint, 04:20 UTC new-launch cutoff and 04:30 UTC final deadline remain unchanged.
+
+## Renewed daytime execution — 2026-10-01 06:08 UTC
+
+The overnight 04:30 UTC cutoff above is historical and expired. The owner renewed bounded execution on 1 October after that window. The renewed scope uses included resources, at most three substantial active work items, source-bound evidence and existing approval gates. No replacement hard deadline is invented. This public update records only the verified product repair; confidential research, contributor and owner-review records stay in approved private storage. Older queue entries retain their recorded timestamps and must be revalidated before action.

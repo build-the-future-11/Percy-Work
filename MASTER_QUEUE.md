@@ -163,3 +163,17 @@ Objective: Repair frozen FI-JEPA v1 saved-evidence readers and README claims
 Next: Review the draft reader patch; retain historical PDF provenance limits and require separate authorization for any prospective v2 execution.
 
 Completed scope: Draft PR 8 repairs saved-evidence validation and reporting safeguards. Its exact-head public receipt reports 11 focused tests, exact agreement for 84 saved downstream metrics and six paired summaries, and byte-identical regenerated table/summary. These are saved-outcome checks, not a new study, model run or independent scientific reproduction. V1 remains CLOSED at NEGATIVE / BOUNDARY; v2 remains unauthorized and unexecuted.
+
+## VERTEX-BASELINE-REVIEW-20261001
+
+State: DONE
+
+Objective: Repair stale baseline self-check evidence after answer edits
+
+Next: Human review of draft PR1103; preserve separate mobile overlay and production-domain gates
+
+Completed scope: Edited responses invalidate their old self-check and completion marker; two vulnerable dependency pins refreshed. Implementation and candidate verification complete; no merge/deployment.
+
+Evidence: https://github.com/vertex-studyAI/vertexED.ai/pull/1103 ; https://github.com/vertex-studyAI/vertexED.ai/actions/runs/36821669924
+
+Exact source: `f2e57eea6d26126e915dcbadadfb469b654b0326`. This is candidate verification, not deployment.
