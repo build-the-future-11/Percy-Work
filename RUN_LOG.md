@@ -29,3 +29,13 @@ VERIFICATION: Public PR metadata and exact SHAs checked; finance runs 3675884511
 INTEGRITY: NeuroCAD PR 74 merged on September 28, before this execution window; it is not a new overnight merge. Existing private-repository items remain at their prior sanitized scope. No private identifiers, correspondence, source locations or raw data were added. Catalogue totals remain source-record counts, not studies or papers. No merge, release, production deployment or research submission was performed.
 
 NEXT: Continue only already-authorized bounded work; retain separate publication, submission and live-production gates. The run deadline is unchanged.
+
+## 2026-10-01T00:04:00Z — Bounded status reconciliation
+
+COMPLETED: FI-JEPA draft PR 8 at e02892061b3647f7a4084e765d7494cdd769b8b5 records a source-only reader repair: its public receipt reports 11 focused tests, 84 saved metrics and six paired summaries checked exactly. V1 stays closed negative/boundary; v2 is unauthorized and unexecuted. CI was intentionally skipped and no workflow run was found for the head. No new study or model execution is inferred.
+
+SOURCE REVIEW: Closed the scoped delivery queue at 75 manual source-level records across three batches. The separate 628 automated lineage overlays are not manual source reviews, activated studies, novelty findings or completed papers. Only aggregate counts are recorded.
+
+PARTIAL PUBLIC VERIFICATION: World-Series v0.1.0-oss release metadata confirms an existing review archive, manifest and receipt. The previous unconditional asset-recovery next step is corrected. Archive bytes were not downloaded in this reconciliation; the prior report-only public scope is retained. New local test counts and scientific findings are not promoted into public evidence without a source-bound public receipt. No new training or full public closure is claimed.
+
+VERIFICATION AND BOUNDS: Existing branch head and source files checked before editing; JSON/Markdown status parity, unchanged unrelated records, deadline preservation, privacy scan and diff checks required before publication. All public references are recorded in the existing queue. No scientific protocol, private source record, merge, deployment, release or submission changed.

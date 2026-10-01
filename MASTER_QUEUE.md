@@ -1,6 +1,6 @@
 # Current bounded execution queue
 
-Updated 2026-09-30 22:06 UTC. Public-repository receipts reconciled; private work retains its previously recorded scope. DONE refers only to each bounded acceptance criterion, never automatic publication, release or portfolio completion. Exact evidence and public verification limits are retained in MASTER_QUEUE.jsonl.
+Updated 2026-10-01 00:04 UTC. Bounded public receipts and sanitized source-review delivery counts reconciled; unrelated work retains its previously recorded scope. DONE refers only to each bounded acceptance criterion, never automatic publication, release or portfolio completion. Exact evidence and public verification limits are retained in MASTER_QUEUE.jsonl.
 
 ## KRYLOV-CJSJ-20260930
 
@@ -90,7 +90,9 @@ State: DONE
 
 Objective: Verify existing bounded World-Series closeout
 
-Next: Recover raw campaigns before full replay; local patch review
+Next: Keep report-only public scope until a source-bound public verification receipt supports any upgrade; review the previously recorded local patch separately.
+
+Public receipt: The existing public v0.1.0-oss release lists world-series-review.tar.gz (540474516 bytes), manifest.json and receipt.json. Declared archive SHA-256: f9ce4c2f8a1cfbdff969db392492870438607fe6b1d44c9f38b1d2d94c413a53. Asset availability was verified from release metadata only; archive bytes were not downloaded or hash-verified in this reconciliation. This corrects the unconditional asset-recovery next step without upgrading the prior report-only public scope. New local verification is separate and is not asserted as public closure; no new test totals, replay findings, training or study completion are claimed.
 
 ## NEUROCAD-VERIFY-20260930
 
@@ -114,11 +116,13 @@ Public receipt: Parent run 36758845112 remains failed: two unchanged-test timeou
 
 ## CATALOGUE-BATCH01-20260930
 
-State: IN_PROGRESS
+State: DONE
 
-Objective: Finish exact 25-record source-level review
+Objective: Close the delivered three-batch source-level review
 
-Next: Recover remaining source identities and package private evidence overlay
+Next: Retain the delivered source-review scope; require separate evidence and authorization before any project activation or scientific execution.
+
+Completed scope: 75 manual source-level records delivered across three batches. Separately, 628 automated lineage overlays were prepared; these are not additional manual reviews. No activated study, new experiment, novelty claim or completed-paper count follows.
 
 ## CONTRIBUTOR-REPLIES-1900
 
@@ -147,3 +151,13 @@ Objective: Expose existing closed mixed/negative research boundary in the README
 Next: Review the draft status clarification; keep the optional classical-baseline successor pre-outcome and unauthorized.
 
 Completed scope: Draft PR 29 changes README only (14 additions, 2 deletions), surfacing the existing mixed/negative closure at base cf3a1bd29c91c637c63dacf6813f801d8f76c337. This records documentation progress, not a newly completed study or new scientific run.
+
+## FI-READER-CLOSEOUT-20260930
+
+State: DONE
+
+Objective: Repair frozen FI-JEPA v1 saved-evidence readers and README claims
+
+Next: Review the draft reader patch; retain historical PDF provenance limits and require separate authorization for any prospective v2 execution.
+
+Completed scope: Draft PR 8 repairs saved-evidence validation and reporting safeguards. Its exact-head public receipt reports 11 focused tests, exact agreement for 84 saved downstream metrics and six paired summaries, and byte-identical regenerated table/summary. These are saved-outcome checks, not a new study, model run or independent scientific reproduction. V1 remains CLOSED at NEGATIVE / BOUNDARY; v2 remains unauthorized and unexecuted.
