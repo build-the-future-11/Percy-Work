@@ -21,12 +21,12 @@ Continue authorized drafting, venue-fit research and code review whenever useful
 - **PROJECT/WAVE:** Conference portfolio; bounded packages only
 - **STATUS:** DONE
 - **OBJECTIVE:** Deliver useful implementation, verification, presentation or recovery work to canonical repositories.
-- **DEFINITION OF DONE:** Each of the eleven bounded packages has a published commit, its own completed scope, verification evidence and an explicit research-readiness boundary.
-- **CANONICAL LOCATION:** [Restricted project evidence index](https://github.com/THE-BU1LD/org-infra-/blob/79fd04222c341a21aa7f924427097e5f8ef88d88/conferences/index.json); follow each project's canonical link.
+- **DEFINITION OF DONE:** Each of the eleven bounded packages has a published commit, its own completed scope, verification evidence and an explicit research-readiness boundary. The follow-up includes completed manuscript/presentation drafts and executed checks; whole-project completion remains false and the containing PRs remain unmerged.
+- **CANONICAL LOCATION:** [Restricted project evidence index](https://github.com/THE-BU1LD/org-infra-/blob/d732011254d071e2d2d3b1bb5866187c16c30dba/conferences/index.json); follow each project's canonical link.
 - **DEPENDENCIES:** Completed repository work and verified publication receipts.
 - **BLOCKERS:** None for this bounded delivery. Research-completion dependencies remain in CW-003 through CW-006.
 - **NEXT ACTION:** Resume the highest-priority dependency task when its required input becomes available; review canonical updates before claiming broader completion.
-- **VERIFICATION:** The pinned index records eleven published bounded packages with exact evidence commits and remaining requirements.
+- **VERIFICATION:** The pinned index records eleven published bounded packages with exact evidence commits, verified file trees, itemized check scopes and remaining requirements. Whole-project completion, author review, venue readiness and submission are recorded separately.
 - **LAST UPDATED:** 2026-10-07
 
 ## CW-002 — Route mapping
@@ -38,7 +38,7 @@ Continue authorized drafting, venue-fit research and code review whenever useful
 - **STATUS:** DONE
 - **OBJECTIVE:** Connect the reviewed venue and track routes to actual project work and actionable requirements.
 - **DEFINITION OF DONE:** All forty-two routes have a project mapping, official-source context, deadline state and a remaining action; journals, future calls and existing submissions are identified.
-- **CANONICAL LOCATION:** [Restricted route index](https://github.com/THE-BU1LD/org-infra-/blob/79fd04222c341a21aa7f924427097e5f8ef88d88/conferences/index.json) and its linked official sources.
+- **CANONICAL LOCATION:** [Restricted route index](https://github.com/THE-BU1LD/org-infra-/blob/d732011254d071e2d2d3b1bb5866187c16c30dba/conferences/index.json) and its linked official sources.
 - **DEPENDENCIES:** Reviewed route snapshot and project evidence records.
 - **BLOCKERS:** None for route mapping. Mapping is not a scientific-completion or submission decision.
 - **NEXT ACTION:** Recheck the official source when a route is selected or its call changes; update the index before acting on a revised deadline.
@@ -54,7 +54,7 @@ Continue authorized drafting, venue-fit research and code review whenever useful
 - **STATUS:** BLOCKED
 - **OBJECTIVE:** Recover the authentic implementation and original evidence required by the affected research routes.
 - **DEFINITION OF DONE:** Each affected stream has an accessible, complete source/evidence package admitted against its canonical identity and preserved in its designated repository.
-- **CANONICAL LOCATION:** [Restricted source dependencies](https://github.com/THE-BU1LD/org-infra-/blob/79fd04222c341a21aa7f924427097e5f8ef88d88/conferences/index.json); scientific coordination is in [Percy-Projects](https://github.com/build-the-future-11/Percy-Projects).
+- **CANONICAL LOCATION:** [Restricted source dependencies](https://github.com/THE-BU1LD/org-infra-/blob/d732011254d071e2d2d3b1bb5866187c16c30dba/conferences/index.json); scientific coordination is in [Percy-Projects](https://github.com/build-the-future-11/Percy-Projects).
 - **DEPENDENCIES:** Accessible authentic archives or repositories; exact source-version binding; original inputs, outputs and provenance where required.
 - **BLOCKERS:** B-001: some original artifacts remain inaccessible, incomplete or unbound; some project identities lack a designated authentic implementation.
 - **NEXT ACTION:** On receipt of a distinct accessible artifact or routing decision, validate identity and integrity, reconcile its lineage, and perform the permitted intake in the canonical repository.
@@ -70,7 +70,7 @@ Continue authorized drafting, venue-fit research and code review whenever useful
 - **STATUS:** WAITING_EXTERNAL
 - **OBJECTIVE:** Obtain legitimate study inputs and a frozen evaluation suitable for each selected research claim.
 - **DEFINITION OF DONE:** Required data permissions, cohorts, labels, controls, evaluation protocol and resource admission are resolved in the canonical project before a permitted study executes.
-- **CANONICAL LOCATION:** [Restricted project requirements](https://github.com/THE-BU1LD/org-infra-/blob/79fd04222c341a21aa7f924427097e5f8ef88d88/conferences/index.json); follow the designated implementation and scientific-state records.
+- **CANONICAL LOCATION:** [Restricted project requirements](https://github.com/THE-BU1LD/org-infra-/blob/d732011254d071e2d2d3b1bb5866187c16c30dba/conferences/index.json); follow the designated implementation and scientific-state records.
 - **DEPENDENCIES:** Appropriate data owners and study leads; lawful data access or participant permission where applicable.
 - **BLOCKERS:** B-002: prospective or representative data, consent where needed, reference labels, comparator definitions and approved study resources are not all available.
 - **NEXT ACTION:** Continue available protocol preparation. When the responsible owner supplies the required inputs, bind their provenance, freeze the protocol and complete the applicable admission checks before outcome work.
@@ -86,7 +86,7 @@ Continue authorized drafting, venue-fit research and code review whenever useful
 - **STATUS:** WAITING_EXTERNAL
 - **OBJECTIVE:** Obtain the independent domain review and presenter/coauthor decisions that remain beyond the completed verification.
 - **DEFINITION OF DONE:** Required independent domain or proof review, presenter/coauthor representation and any unresolved existing-venue policy decisions are recorded in canonical project state.
-- **CANONICAL LOCATION:** [Restricted project and route requirements](https://github.com/THE-BU1LD/org-infra-/blob/79fd04222c341a21aa7f924427097e5f8ef88d88/conferences/index.json) and the corresponding canonical manuscripts.
+- **CANONICAL LOCATION:** [Restricted project and route requirements](https://github.com/THE-BU1LD/org-infra-/blob/d732011254d071e2d2d3b1bb5866187c16c30dba/conferences/index.json) and the corresponding canonical manuscripts.
 - **DEPENDENCIES:** Qualified independent review beyond existing verification; presenter/coauthor decisions; responses needed from an existing venue process.
 - **BLOCKERS:** B-003: the required outside domain review or personal/venue decision has not arrived.
 - **NEXT ACTION:** Continue authorized draft refinement, venue-fit research and code review using the completed assets. Incorporate external feedback when received, preserve frozen or submitted artifacts, and keep the final submission within its recorded authorization.
@@ -102,7 +102,7 @@ Continue authorized drafting, venue-fit research and code review whenever useful
 - **STATUS:** WAITING_EXTERNAL
 - **OBJECTIVE:** Resolve the external rules and decisions needed to act on a selected route.
 - **DEFINITION OF DONE:** The relevant official call, actual cutoff and timezone, presenter eligibility, sponsorship or membership conditions, and any existing-submission decision are resolved for that route.
-- **CANONICAL LOCATION:** [Restricted route index](https://github.com/THE-BU1LD/org-infra-/blob/79fd04222c341a21aa7f924427097e5f8ef88d88/conferences/index.json); use each route's official source and existing submission record.
+- **CANONICAL LOCATION:** [Restricted route index](https://github.com/THE-BU1LD/org-infra-/blob/d732011254d071e2d2d3b1bb5866187c16c30dba/conferences/index.json); use each route's official source and existing submission record.
 - **DEPENDENCIES:** Venue publication of calls and rules; organizer or sponsor decisions where required; existing editorial or review processes.
 - **BLOCKERS:** B-004: some calls are unannounced, some deadline wording needs resolution, and some eligibility or existing-process conditions remain external.
 - **NEXT ACTION:** Recheck the authoritative source when it changes or before acting on the route; update canonical coordination without inventing dates or duplicate submissions.

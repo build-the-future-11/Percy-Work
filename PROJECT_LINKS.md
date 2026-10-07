@@ -6,7 +6,7 @@ Updated: 2026-10-07. This file routes execution to its authoritative location; i
 |---|---|---|
 | [Percy-Work execution contract](PERCY_WORK_README.md) | Required queue, blocker, evidence and logging behavior | CW-001 through CW-006 |
 | [Percy-Projects](https://github.com/build-the-future-11/Percy-Projects) | Canonical scientific coordination and project routing | CW-003 through CW-005 |
-| [Pinned conference index — restricted](https://github.com/THE-BU1LD/org-infra-/blob/79fd04222c341a21aa7f924427097e5f8ef88d88/conferences/index.json) | Immutable mapping of the eleven bounded packages and forty-two reviewed routes; exact canonical project links and remaining requirements | CW-001 through CW-006 |
+| [Pinned conference index — restricted](https://github.com/THE-BU1LD/org-infra-/blob/d732011254d071e2d2d3b1bb5866187c16c30dba/conferences/index.json) | Immutable mapping of the eleven bounded packages and forty-two reviewed routes; exact canonical project links and remaining requirements | CW-001 through CW-006 |
 | [Conference index draft PR — restricted](https://github.com/THE-BU1LD/org-infra-/pull/19) | Review and subsequent changes to the coordination index | CW-002 and dependent work |
 | [Master queue](MASTER_QUEUE.md) | Current execution status and definition of done | CW-001 through CW-006 |
 | [Run log](RUN_LOG.md) | Factual execution record | CW-001 and CW-002 |

@@ -1,6 +1,6 @@
 # Blockers and external dependencies
 
-Updated: 2026-10-07. These records describe execution dependencies. Their project-specific evidence and private details remain in the [restricted index](https://github.com/THE-BU1LD/org-infra-/blob/79fd04222c341a21aa7f924427097e5f8ef88d88/conferences/index.json).
+Updated: 2026-10-07. These records describe execution dependencies. Their project-specific evidence and private details remain in the [restricted index](https://github.com/THE-BU1LD/org-infra-/blob/d732011254d071e2d2d3b1bb5866187c16c30dba/conferences/index.json).
 
 ## B-001 — Authentic source and evidence
 
